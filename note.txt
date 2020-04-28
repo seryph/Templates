@@ -1,0 +1,5 @@
+
+
+https://laravel.com/docs/7.x/routing
+https://laravel.com/docs/7.x/controllers
+https://laravel.com/docs/7.x/blade
